@@ -1,0 +1,26 @@
+{
+    "id": "galactusmc",
+    "name": "GalactusMC",
+    "website": "https://galactusmc.es/",
+    "store": "https://tienda.galactusmc.es/",
+    "addresses": [
+        "galactusmc.es"
+    ],
+    "primaryAddress": "galactusmc.es",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "presentationVideo": "AO-iNQOy-ow",
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ff0b0b",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Survival",
+        "SkyGens"
+    ],
+    "socials": {
+        "twitter": "GalactusMCNW",
+        "discord": "https://discord.com/invite/galactusmc"
+    }
+}
